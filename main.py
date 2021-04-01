@@ -1,1 +1,1 @@
-print("hello OKA")
+print("pygame oka")
